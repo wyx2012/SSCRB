@@ -31,4 +31,4 @@ torchvision               0.12.0+cu113
 
 2. Fill in the circRNA name you need to predict in wTest.py, run wTest.py, and the results will be saved in the RESULT file of the corresponding circRNA in the dataset.
 
-Thank you and enjoy the tool!# MMD-DTI
+Thank you and enjoy the tool!
